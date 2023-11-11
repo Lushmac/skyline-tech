@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+table,th,td{
+   border-top: 1px solid lightgrey;
+   border-collapse: collapse;
+   border-bottom: 1px solid lightgrey;
+}
+table{
+  margin:60px auto;
+  width: 60%;
+  
+}
+td,th{
+  padding:10px;
+  font-size: 20px;
+}
+caption{
+  padding:10px;
+  font-size: 25px;
+  background:orange;
+  width: 50%;
+  margin:20px auto;
+  border-radius: 10px;
+  color: white;
+}
+th{
+  background: dodgerblue;
+  color: white;
+}
